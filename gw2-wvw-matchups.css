@@ -1,0 +1,11 @@
+#gw2-wvw-matchups .red { background-color: #AA4644!important; }
+#gw2-wvw-matchups .green { background-color: #89A54E!important; }
+#gw2-wvw-matchups .blue { background-color: #4573A7!important; }
+#gw2-wvw-matchups ul.gw2-matchups { margin: 0; padding: 0; }
+#gw2-wvw-matchups ul.gw2-matchups .match { padding: 6px 6px; margin: 0 0 10px; display: block; }
+#gw2-wvw-matchups ul.gw2-matchups .match:last-child { margin-bottom: 0; }
+/*#gw2-wvw-matchups ul.gw2-matchups .match .home-world { padding-left: 18px; background: url('images/home-world.png') left center no-repeat; }*/
+#gw2-wvw-matchups ul.gw2-matchups .match span { display: block; color: #fff; }
+#gw2-wvw-matchups ul.gw2-matchups .match .world { font-size: 16px; }
+#gw2-wvw-matchups ul.gw2-matchups .match .points { font-size: 28px; }
+

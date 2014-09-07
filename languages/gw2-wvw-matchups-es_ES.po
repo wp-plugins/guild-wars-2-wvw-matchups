@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Guild Wars 2 - WvW Matchups\n"
+"POT-Creation-Date: 2014-06-21 17:15+0100\n"
+"PO-Revision-Date: 2014-09-07 19:05+0100\n"
+"Last-Translator: Juan Carlos Ruiz Carrión (Klaufel) <klaufel@gmail.com>\n"
+"Language-Team: Juan Carlos Ruiz Carrión (Klaufel) <klaufel@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gw2-wvw-matchups.php:33
+msgid "Guild Wars 2 - WvW Matchups"
+msgstr "Guild Wars 2 - Enfrentamientos McM"
+
+#: gw2-wvw-matchups.php:34
+msgid "Displays real-time scores of WvW matchup in Guild Wars 2"
+msgstr ""
+"Muestra en tiempo real las puntuaciones de un enfrentamiento de McM en Guild "
+"Wars 2"
+
+#: gw2-wvw-matchups.php:151
+msgid "Worlds"
+msgstr "Mundos"
+
+#: gw2-wvw-matchups.php:152
+msgid "Campament"
+msgstr "Campamento"
+
+#: gw2-wvw-matchups.php:153
+msgid "Tower"
+msgstr "Torre"
+
+#: gw2-wvw-matchups.php:154
+msgid "Keep"
+msgstr "Fortaleza"
+
+#: gw2-wvw-matchups.php:155
+msgid "Castle"
+msgstr "Castillo"
+
+#: gw2-wvw-matchups.php:181
+msgid "WvW Score"
+msgstr "Puntuaciones McM"
+
+#: gw2-wvw-matchups.php:187
+msgid "Title:"
+msgstr "Título:"
+
+#: gw2-wvw-matchups.php:191
+msgid "Language:"
+msgstr "Idioma:"
+
+#: gw2-wvw-matchups.php:191
+msgid "(English only temporarily)"
+msgstr "(Solo Inglés temporalmente)"
+
+#: gw2-wvw-matchups.php:195
+msgid "English (EN)"
+msgstr "English (EN)"
+
+#: gw2-wvw-matchups.php:196
+msgid "French (FR)"
+msgstr "French (FR)"
+
+#: gw2-wvw-matchups.php:197
+msgid "German (DE)"
+msgstr "German (DE)"
+
+#: gw2-wvw-matchups.php:198
+msgid "Spanish (SP)"
+msgstr "Spanish (SP)"
+
+#: gw2-wvw-matchups.php:207
+msgid "World:"
+msgstr "Mundo:"
+
+#: gw2-wvw-matchups.php:219
+msgid "Skin:"
+msgstr "Apariencia:"
+
+#: gw2-wvw-matchups.php:223
+msgid "Default"
+msgstr "Defecto"
+
+#: gw2-wvw-matchups.php:224
+msgid "Vivid Colors"
+msgstr "Colores Vivos"
+
+#: gw2-wvw-matchups.php:234
+msgid "Show objectives table?"
+msgstr "¿Mostrar tabla de objetivos?"
